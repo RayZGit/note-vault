@@ -1,0 +1,9 @@
+- E-Commerce  Seattle
+	- Personal Resume deep dive
+		- diaster prevention
+		- data discrepancy (related to personal experience)
+	- Code 1: HackRank
+		- MergeBetweenIn
+			- parameters: List1, List2, a, b
+			- a, b is index/position in list2 and remove a -> b and replace with list2
+	- Code 2: Number of islands
